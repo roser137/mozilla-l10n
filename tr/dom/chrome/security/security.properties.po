@@ -122,7 +122,7 @@ msgid ""
 msgstr ""
 "Çapraz köken isteği engellendi: Aynı Köken İlkesi, %1$S üzerindeki uzak "
 "kaynağın okunmasına izin vermiyor. (Sebep: CORS başlangıç kanalındaki CORS "
-"üstbilgisi 'Access-Control-Allow-Headers'ta geçersiz '%2$S' jetonu.)"
+"üstbilgisi 'Access-Control-Allow-Headers'ta eksik '%2$S' jetonu.)"
 
 #. # LOCALIZATION NOTE: Do not translate "Strict-Transport-Security", "HSTS", "max-age" or "includeSubDomains"
 #: STSUnknownError
